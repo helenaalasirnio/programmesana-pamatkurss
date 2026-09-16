@@ -1,1 +1,1 @@
-print("Kebabs")
+print("Es smirdu pēc kebaba")
