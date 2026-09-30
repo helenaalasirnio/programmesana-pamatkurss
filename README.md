@@ -13,3 +13,6 @@ to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
 furnished to do so, subject to the following conditions
 Licenze palīdz pret plaģiātu
+
+**Secinājumi**
+parasts teksts ir vieta kur nevar kodēt untt. un .md ir teksta vieta, kur var kodet 
