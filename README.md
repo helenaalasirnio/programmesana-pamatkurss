@@ -2,7 +2,7 @@
 Autors: **Helena Alasirnio**
 
 ## Kā palaist
--- programma tiek atvērta un tad ar python kodu izpildīšana tiek palaista
+- programma tiek atvērta un tad ar python kodu izpildīšana tiek palaista
 # apaksvirsraksts
 
 ## Licence
