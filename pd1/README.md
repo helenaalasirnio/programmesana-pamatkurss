@@ -4,4 +4,4 @@ Autors: **Helena Sofia Alasirnio**
 ## Ergonomika
 - Monitors ir acu līmenī
 - Krēsls ir ērts specifiskajai personai
-- Ievērotas atpūtas ik pēc laika
+- Ievērotas atpūtas ik pēc laika.
