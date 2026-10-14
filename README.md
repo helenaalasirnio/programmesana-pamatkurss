@@ -16,3 +16,8 @@ Licenze palīdz pret plaģiātu
 
 **Secinājumi**
 parasts teksts ir vieta kur nevar kodēt untt. un .md ir teksta vieta, kur var kodet 
+
+2.Tēma
+1. a ir str (teksts, jo ir pēdiņas)
+2. b ir int (vesels skaitlis)
+3. c ir float (daļskaitlis ar punktu)
